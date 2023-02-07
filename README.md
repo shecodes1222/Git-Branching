@@ -1,2 +1,2 @@
-# Git-Branching
+# Git-Branch
 Branching Repos with Peers
